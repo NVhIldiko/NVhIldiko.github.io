@@ -59,7 +59,7 @@ blockquote::before {
 blockquote{
   display: flex;
   justify-items: center;
-  background-color: grey;
+  background-color: lime;
   height: 100px;
   width: 700px;
   Color: white;
