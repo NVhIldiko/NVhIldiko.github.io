@@ -1,0 +1,163 @@
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+header {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  max-width: 800px;
+  font-family: 'Abril Fatface', cursive;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+    }
+.Name {
+  font-family: 'Abril Fatface', cursive;
+  margin-bottom: 0px;
+}
+h1{
+  margin-top: 0px;
+}
+img{
+  margin-top: 0px;
+  max-width: 800px;
+  align-content: center;
+}
+.header-text{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  bottom: 10px;
+  padding-left: 220px;
+}
+.Analytical{
+  display: flex;
+  flex-direction: column;
+  max-width:530px;
+  font-size: 15px;
+  color: black;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+}
+p {
+  text-align: left;
+  font-family: 'Josefin Sans', sans-serif;
+  max-width: 530px;
+ }
+
+blockquote::before {
+  content: '”';
+  margin-top: 10px;
+  font-size: 100px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+blockquote{
+  display: flex;
+  justify-items: center;
+  background-color: grey;
+  height: 100px;
+  width: 700px;
+  Color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+  padding-right:20px;
+}
+.together{
+  font-family: 'Abril Fatface', cursive;
+  font-size: 30px;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+}
+li{
+  font-family: 'Josefin Sans', sans-serif;
+  list-style-type: square;
+}
+.long-blockquote{
+display: flex;
+  justify-items: center;
+  background-color: grey;
+  height: 150px;
+  width: 700px;
+  Color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  font-size: 55px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+h3{
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+h4{
+ font-family: 'Merriweather', serif;
+  font-size: 15px;
+  margin-top: 10px;
+}
+.nortable{
+  display: flex;
+  flex-direction: column;
+  max-width: 530px;
+  font-family: 'Abril Fatface';
+  Color: black;
+  font-size: 15px;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+}
+.experience{
+  display: flex;
+  flex-direction: column;
+  max-width: 530px;
+  font-family: 'Abril Fatface',
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+}
+.formal-training{
+  display: flex;
+  flex-direction: column;
+  max-width: 530px;
+  font-family: 'Abril Fatface',
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+}
+.black-line{
+  display: flex;
+  height:5px;
+  width: 700px;
+  background-color: black;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+
+}
+.personal-interest{
+  display: flex;
+  flex-direction: column;
+  max-width: 530px;
+  font-family: 'Abril Fatface',
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
+}
